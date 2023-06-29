@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adarshpriyadarshi-7b58711a7" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="adarsh priyadarshi" height="30" width="40" /></a>
-<a href="https://instagram.com/adarshpriyadarshi.me" target="blank"><img align="center" src="https://pngimg.com/uploads/instagram/instagram_PNG9.png" alt="adarshpriyadarshi.me" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarshpriyadarshi-7b58711a7" target="_blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="adarsh priyadarshi" height="30" width="40" /></a>
+<a href="https://instagram.com/adarshpriyadarshi.me" target="_blank"><img align="center" src="https://pngimg.com/uploads/instagram/instagram_PNG9.png" alt="adarshpriyadarshi.me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
